@@ -2,19 +2,21 @@
 
 ## Backend
 
-- Axum
-- Actix
+- [x] Axum
+- [] Actix
 
 ### DB
 
-- SurrealDB
+- [x] SurrealDB
 - Postgresql
 
 ## Frontend
 
-- Yew
+- [x] Yew
 - SvelteKit
 
 ## App Framework
 
-- Tauri
+- [x] Tauri
+
+The ones ticked are not better but rather are pure rust.
